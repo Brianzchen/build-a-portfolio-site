@@ -2,8 +2,8 @@ var model = {
   projects: [
     {
       "name": "Online Resume",
-      "image": "images/frogger.png",
-      "imageAlt": "screenshot of frogger game",
+      "image": "images/online-resume.png",
+      "imageAlt": "snippet of my online resume",
       "link": "http://brianzchen.github.io/online-resume/"
     },
     {
@@ -14,20 +14,20 @@ var model = {
     },
     {
       "name": "Web Optimization",
-      "image": "images/frogger.png",
-      "imageAlt": "screenshot of frogger game",
+      "image": "images/web-opt.png",
+      "imageAlt": "screenshot of Cam's pizzeria",
       "link": "http://brianzchen.github.io/web-opt-project/"
     },
     {
       "name": "Neighbourhood Map",
-      "image": "images/frogger.png",
-      "imageAlt": "screenshot of frogger game",
+      "image": "images/east-eats.png",
+      "imageAlt": "east eats displaying a tasty place to eat in east Auckland",
       "link": "http://brianzchen.github.io/east-eats/"
     },
     {
       "name": "Feed Reader",
-      "image": "images/frogger.png",
-      "imageAlt": "screenshot of frogger game",
+      "image": "images/feedreader.png",
+      "imageAlt": "jasmine tests showing no errors",
       "link": "https://github.com/Brianzchen/feedreader"
     }
   ]
