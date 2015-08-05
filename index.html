@@ -40,11 +40,11 @@
       <main class="row" ng-controller="projectController as project">
         <div class="col-4  projects" ng-repeat="project in project.projects">
           <div class="row">
-            <img class="projectImage" src="images/frogger.png" alt="screenshot of frogger game">
+            <img class="projectImage" ng-src="{{project.image}}" ng-alt="{{project.imageAlt}}">
           </div>
           <div>
             <h3>{{project.name}}</h3>
-            <a class="projectWords" href="http://brianzchen.github.io/online-resume/">
+            <a class="projectWords" ng-href="{{project.link}}" target="_blank">
               {{project.link}}
             </a>
           </div>

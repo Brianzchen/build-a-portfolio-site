@@ -28,7 +28,7 @@ var model = {
       "name": "Feed Reader",
       "image": "images/frogger.png",
       "imageAlt": "screenshot of frogger game",
-      "link": "http://brianzchen.github.io/feedreader/"
+      "link": "https://github.com/Brianzchen/feedreader"
     }
   ]
 }
