@@ -29,6 +29,12 @@ var model = {
       "image": "images/feedreader.png",
       "imageAlt": "jasmine tests showing no errors",
       "link": "https://github.com/Brianzchen/feedreader"
+    },
+    {
+      "name": "Delivery Checklist",
+      "image": "images/delivery-checklist.png",
+      "imageAlt": "master order form",
+      "link": "http://brianzchen.github.io/delivery-checklist/"
     }
   ]
 }
