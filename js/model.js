@@ -35,6 +35,12 @@ var model = {
       "image": "images/delivery-checklist.png",
       "imageAlt": "master order form",
       "link": "http://brianzchen.github.io/delivery-checklist/"
+    },
+    {
+      "name": "Packing Slip Generator",
+      "image": "images/packing-slip.png",
+      "imageAlt": "order form",
+      "link": "https://github.com/fortunenz/packing-slip"
     }
   ]
 }
