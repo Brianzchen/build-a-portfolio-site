@@ -7,6 +7,12 @@ var model = {
       "link": "https://github.com/fortunenz/home-page"
     },
     {
+      "name": "Take a Break",
+      "image": "images/take-a-break.png",
+      "imageAlt": "Timer running with selected video",
+      "link": "http://brianzchen.github.io/take-a-break/"
+    },
+    {
       "name": "Online Resume",
       "image": "images/online-resume.png",
       "imageAlt": "snippet of my online resume",
