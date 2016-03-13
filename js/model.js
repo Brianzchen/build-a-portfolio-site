@@ -7,6 +7,12 @@ var model = {
       "link": "https://github.com/fortunenz/home-page"
     },
     {
+      "name": "6th Gen Mustang GT",
+      "image": "images/mustang.png",
+      "imageAlt": "mustang page header",
+      "link": "http://brianzchen.github.io/mustang/"
+    },
+    {
       "name": "Take a Break",
       "image": "images/take-a-break.png",
       "imageAlt": "Timer running with selected video",
